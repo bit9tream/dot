@@ -1,0 +1,692 @@
+Mar 15 21:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 21:11 : exception: Failed to open '/home/null/.mpd/mpdstate': No such file or directory
+Mar 15 21:11 : update: added /Night Drive - A Chillwave Mix-emNgfuw8vlA.webm
+Mar 15 21:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 21:20 : client: [0] opened from 127.0.0.1:55856
+Mar 15 21:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 21:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 21:20 : client: [0] closed
+Mar 15 21:21 : client: [1] opened from 127.0.0.1:55862
+Mar 15 21:21 : client: [1] closed
+Mar 15 21:24 : client: [2] opened from 127.0.0.1:55870
+Mar 15 21:24 : client: [2] closed
+Mar 15 21:24 : client: [3] opened from 127.0.0.1:55874
+Mar 15 21:24 : client: [3] closed
+Mar 15 21:24 : client: [4] opened from 127.0.0.1:55878
+Mar 15 21:24 : client: [4] closed
+Mar 15 21:24 : client: [5] opened from 127.0.0.1:55882
+Mar 15 21:24 : client: [5] closed
+Mar 15 21:24 : client: [6] opened from 127.0.0.1:55886
+Mar 15 21:24 : client: [6] closed
+Mar 15 21:25 : client: [7] opened from 127.0.0.1:55890
+Mar 15 21:25 : client: [7] closed
+Mar 15 21:25 : client: [8] opened from 127.0.0.1:55894
+Mar 15 21:25 : client: [8] closed
+Mar 15 21:25 : client: [9] opened from 127.0.0.1:55898
+Mar 15 21:25 : client: [9] closed
+Mar 15 21:26 : client: [10] opened from 127.0.0.1:55906
+Mar 15 21:26 : client: [10] closed
+Mar 15 21:26 : client: [11] opened from 127.0.0.1:55910
+Mar 15 21:26 : client: [11] closed
+Mar 15 21:26 : client: [12] opened from 127.0.0.1:55914
+Mar 15 21:26 : client: [12] closed
+Mar 15 21:26 : client: [13] opened from 127.0.0.1:55918
+Mar 15 21:26 : client: [13] closed
+Mar 15 21:26 : client: [14] opened from 127.0.0.1:55922
+Mar 15 21:26 : client: [14] closed
+Mar 15 21:26 : client: [15] opened from 127.0.0.1:55926
+Mar 15 21:26 : client: [15] closed
+Mar 15 21:26 : client: [16] opened from 127.0.0.1:55930
+Mar 15 21:26 : client: [16] closed
+Mar 15 21:26 : client: [17] opened from 127.0.0.1:55934
+Mar 15 21:26 : client: [17] closed
+Mar 15 21:26 : client: [18] opened from 127.0.0.1:55938
+Mar 15 21:26 : client: [18] closed
+Mar 15 21:26 : client: [19] opened from 127.0.0.1:55942
+Mar 15 21:26 : client: [19] closed
+Mar 15 21:26 : client: [20] opened from 127.0.0.1:55946
+Mar 15 21:26 : client: [20] closed
+Mar 15 21:26 : client: [21] opened from 127.0.0.1:55950
+Mar 15 21:26 : client: [21] closed
+Mar 15 21:26 : client: [22] opened from 127.0.0.1:55954
+Mar 15 21:26 : client: [22] closed
+Mar 15 21:26 : client: [23] opened from 127.0.0.1:55958
+Mar 15 21:26 : client: [23] closed
+Mar 15 21:26 : client: [24] opened from 127.0.0.1:55962
+Mar 15 21:26 : client: [24] closed
+Mar 15 21:26 : client: [25] opened from 127.0.0.1:55966
+Mar 15 21:26 : client: [25] closed
+Mar 15 21:26 : client: [26] opened from 127.0.0.1:55970
+Mar 15 21:26 : client: [26] closed
+Mar 15 21:26 : client: [27] opened from 127.0.0.1:55974
+Mar 15 21:26 : client: [27] closed
+Mar 15 21:26 : client: [28] opened from 127.0.0.1:55978
+Mar 15 21:26 : client: [28] closed
+Mar 15 21:26 : client: [29] opened from 127.0.0.1:55982
+Mar 15 21:26 : client: [29] closed
+Mar 15 21:26 : client: [30] opened from 127.0.0.1:55986
+Mar 15 21:26 : client: [30] closed
+Mar 15 21:26 : client: [31] opened from 127.0.0.1:55990
+Mar 15 21:26 : client: [31] closed
+Mar 15 21:26 : client: [32] opened from 127.0.0.1:55994
+Mar 15 21:26 : client: [32] closed
+Mar 15 21:26 : client: [33] opened from 127.0.0.1:55998
+Mar 15 21:26 : client: [33] closed
+Mar 15 21:26 : client: [34] opened from 127.0.0.1:56002
+Mar 15 21:26 : client: [34] closed
+Mar 15 21:26 : client: [35] opened from 127.0.0.1:56006
+Mar 15 21:26 : client: [35] closed
+Mar 15 21:26 : client: [36] opened from 127.0.0.1:56010
+Mar 15 21:26 : client: [36] closed
+Mar 15 21:26 : client: [37] opened from 127.0.0.1:56014
+Mar 15 21:26 : client: [37] closed
+Mar 15 21:26 : client: [38] opened from 127.0.0.1:56018
+Mar 15 21:26 : client: [38] closed
+Mar 15 21:26 : client: [39] opened from 127.0.0.1:56022
+Mar 15 21:26 : client: [39] closed
+Mar 15 21:26 : client: [40] opened from 127.0.0.1:56026
+Mar 15 21:26 : client: [40] closed
+Mar 15 21:26 : client: [41] opened from 127.0.0.1:56030
+Mar 15 21:26 : client: [41] closed
+Mar 15 21:26 : client: [42] opened from 127.0.0.1:56034
+Mar 15 21:26 : client: [42] closed
+Mar 15 21:26 : client: [43] opened from 127.0.0.1:56038
+Mar 15 21:26 : client: [43] closed
+Mar 15 21:26 : client: [44] opened from 127.0.0.1:56042
+Mar 15 21:26 : client: [44] closed
+Mar 15 21:26 : client: [45] opened from 127.0.0.1:56046
+Mar 15 21:26 : client: [45] closed
+Mar 15 21:26 : client: [46] opened from 127.0.0.1:56050
+Mar 15 21:26 : client: [46] closed
+Mar 15 21:26 : client: [47] opened from 127.0.0.1:56054
+Mar 15 21:26 : client: [47] closed
+Mar 15 21:26 : client: [48] opened from 127.0.0.1:56058
+Mar 15 21:26 : client: [48] closed
+Mar 15 21:26 : client: [49] opened from 127.0.0.1:56062
+Mar 15 21:26 : client: [49] closed
+Mar 15 21:26 : client: [50] opened from 127.0.0.1:56066
+Mar 15 21:26 : client: [50] closed
+Mar 15 21:26 : client: [51] opened from 127.0.0.1:56070
+Mar 15 21:26 : client: [51] closed
+Mar 15 21:26 : client: [52] opened from 127.0.0.1:56074
+Mar 15 21:26 : client: [52] closed
+Mar 15 21:26 : client: [53] opened from 127.0.0.1:56078
+Mar 15 21:26 : client: [53] closed
+Mar 15 21:26 : client: [54] opened from 127.0.0.1:56082
+Mar 15 21:26 : client: [54] closed
+Mar 15 21:26 : client: [55] opened from 127.0.0.1:56086
+Mar 15 21:26 : client: [55] closed
+Mar 15 21:26 : client: [56] opened from 127.0.0.1:56090
+Mar 15 21:26 : client: [56] closed
+Mar 15 21:26 : client: [57] opened from 127.0.0.1:56094
+Mar 15 21:26 : client: [57] closed
+Mar 15 21:26 : client: [58] opened from 127.0.0.1:56098
+Mar 15 21:26 : client: [58] closed
+Mar 15 21:26 : client: [59] opened from 127.0.0.1:56102
+Mar 15 21:26 : client: [59] closed
+Mar 15 21:26 : client: [60] opened from 127.0.0.1:56106
+Mar 15 21:26 : client: [60] closed
+Mar 15 21:26 : client: [61] opened from 127.0.0.1:56110
+Mar 15 21:26 : client: [61] closed
+Mar 15 21:26 : client: [62] opened from 127.0.0.1:56114
+Mar 15 21:26 : client: [62] closed
+Mar 15 21:26 : client: [63] opened from 127.0.0.1:56118
+Mar 15 21:26 : client: [63] closed
+Mar 15 21:26 : client: [64] opened from 127.0.0.1:56122
+Mar 15 21:26 : client: [64] closed
+Mar 15 21:26 : client: [65] opened from 127.0.0.1:56126
+Mar 15 21:26 : client: [65] closed
+Mar 15 21:26 : client: [66] opened from 127.0.0.1:56130
+Mar 15 21:26 : client: [66] closed
+Mar 15 21:26 : client: [67] opened from 127.0.0.1:56134
+Mar 15 21:26 : client: [67] closed
+Mar 15 21:26 : client: [68] opened from 127.0.0.1:56138
+Mar 15 21:26 : client: [68] closed
+Mar 15 21:26 : client: [69] opened from 127.0.0.1:56142
+Mar 15 21:26 : client: [69] closed
+Mar 15 21:26 : client: [70] opened from 127.0.0.1:56146
+Mar 15 21:26 : client: [70] closed
+Mar 15 21:26 : client: [71] opened from 127.0.0.1:56150
+Mar 15 21:26 : client: [71] closed
+Mar 15 21:26 : client: [72] opened from 127.0.0.1:56154
+Mar 15 21:26 : client: [72] closed
+Mar 15 21:27 : client: [73] opened from 127.0.0.1:56158
+Mar 15 21:27 : client: [73] closed
+Mar 15 21:27 : client: [74] opened from 127.0.0.1:56162
+Mar 15 21:27 : client: [74] closed
+Mar 15 21:27 : client: [75] opened from 127.0.0.1:56166
+Mar 15 21:27 : client: [75] closed
+Mar 15 21:27 : client: [76] opened from 127.0.0.1:56170
+Mar 15 21:27 : client: [76] closed
+Mar 15 21:28 : client: [77] opened from 127.0.0.1:56174
+Mar 15 21:28 : client: [77] closed
+Mar 15 21:28 : client: [78] opened from 127.0.0.1:56178
+Mar 15 21:28 : player: played "Night Drive - A Chillwave Mix-emNgfuw8vlA.webm"
+Mar 15 21:28 : client: [78] closed
+Mar 15 21:28 : client: [79] opened from 127.0.0.1:56182
+Mar 15 21:28 : exception: Not playing
+Mar 15 21:28 : client: [79] closed
+Mar 15 21:28 : client: [80] opened from 127.0.0.1:56186
+Mar 15 21:28 : client: [80] closed
+Mar 15 21:30 : client: [81] opened from 127.0.0.1:56238
+Mar 15 21:30 : client: [81] closed
+Mar 15 22:07 : player: played "Night Drive - A Chillwave Mix-emNgfuw8vlA.webm"
+Mar 16 06:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 06:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 06:47 : client: [0] opened from 127.0.0.1:44542
+Mar 16 06:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 06:47 : client: [0] closed
+Mar 16 06:50 : client: [1] opened from 127.0.0.1:44546
+Mar 16 06:51 : client: [1] closed
+Mar 16 06:55 : client: [2] opened from 127.0.0.1:44552
+Mar 16 06:55 : client: [2] closed
+Mar 16 06:56 : client: [3] opened from 127.0.0.1:44556
+Mar 16 06:56 : client: [3] closed
+Mar 16 07:01 : client: [4] opened from 127.0.0.1:44560
+Mar 16 07:01 : client: [4] closed
+Mar 16 07:07 : client: [5] opened from 127.0.0.1:44570
+Mar 16 07:07 : client: [5] closed
+Mar 16 07:07 : client: [6] opened from 127.0.0.1:44574
+Mar 16 07:07 : client: [6] closed
+Mar 16 07:08 : client: [7] opened from 127.0.0.1:44578
+Mar 16 07:08 : client: [7] closed
+Mar 16 08:15 : player: played "Night Drive - A Chillwave Mix-emNgfuw8vlA.webm"
+Mar 16 17:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 17:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 17:51 : client: [0] opened from 127.0.0.1:45988
+Mar 16 17:51 : client: [0] closed
+Mar 16 17:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 17:51 : client: [1] opened from 127.0.0.1:45992
+Mar 16 17:51 : client: [1] closed
+Mar 16 17:51 : client: [2] opened from 127.0.0.1:45996
+Mar 16 17:51 : client: [2] closed
+Mar 16 17:51 : client: [3] opened from 127.0.0.1:46000
+Mar 16 17:51 : client: [3] closed
+Mar 16 17:51 : client: [4] opened from 127.0.0.1:46004
+Mar 16 17:51 : client: [4] closed
+Mar 16 17:51 : client: [5] opened from 127.0.0.1:46008
+Mar 16 17:51 : client: [5] closed
+Mar 16 18:02 : client: [6] opened from 127.0.0.1:46104
+Mar 16 18:02 : client: [6] closed
+Mar 16 18:09 : client: [7] opened from 127.0.0.1:46194
+Mar 16 18:09 : client: [7] closed
+Mar 16 18:29 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 16 18:29 : player: played "Night Drive - A Chillwave Mix-emNgfuw8vlA.webm"
+Mar 16 18:29 : client: [8] opened from 127.0.0.1:46394
+Mar 16 18:29 : client: [8] closed
+Mar 16 19:09 : client: [9] opened from 127.0.0.1:46860
+Mar 16 19:09 : client: [9] closed
+Mar 16 19:41 : client: [10] opened from 127.0.0.1:47064
+Mar 16 19:41 : client: [10] closed
+Mar 16 19:41 : client: [11] opened from 127.0.0.1:47068
+Mar 16 19:41 : client: [11] closed
+Mar 16 19:41 : client: [12] opened from 127.0.0.1:47072
+Mar 16 19:41 : client: [12] closed
+Mar 16 19:41 : client: [13] opened from 127.0.0.1:47076
+Mar 16 19:41 : client: [13] closed
+Mar 16 19:41 : client: [14] opened from 127.0.0.1:47080
+Mar 16 19:41 : client: [14] closed
+Mar 16 19:41 : client: [15] opened from 127.0.0.1:47084
+Mar 16 19:41 : client: [15] closed
+Mar 16 19:44 : client: [16] opened from 127.0.0.1:47126
+Mar 16 19:44 : client: [16] closed
+Mar 16 19:45 : client: [17] opened from 127.0.0.1:47144
+Mar 16 19:45 : update: added /ПОСЛУШАЙТЕ В НАУШНИКАХ, НЕ ПОЖАЛЕЕТЕ 🎧 СЛУШАТЬ 8D MUSIC-z_mbfy49VJk.webm
+Mar 16 19:45 : client: [18] opened from 127.0.0.1:47148
+Mar 16 19:45 : client: [18] closed
+Mar 16 19:45 : client: [19] opened from 127.0.0.1:47152
+Mar 16 19:45 : client: [19] closed
+Mar 16 19:45 : client: [20] opened from 127.0.0.1:47156
+Mar 16 19:45 : client: [20] closed
+Mar 16 19:45 : client: [21] opened from 127.0.0.1:47160
+Mar 16 19:45 : client: [21] closed
+Mar 16 19:45 : client: [22] opened from 127.0.0.1:47164
+Mar 16 19:45 : client: [22] closed
+Mar 16 19:46 : client: [17] closed
+Mar 16 19:46 : client: [23] opened from 127.0.0.1:47194
+Mar 16 19:46 : update: added /8D AUDIO _ CLASSICAL MUSIC _ Bach, Mozart, Chopin, Beethoven, Tchaikovsky (USE HEADPHONES)-qap88uEa0KI.webm
+Mar 16 19:46 : client: [23] closed
+Mar 16 19:46 : client: [24] opened from 127.0.0.1:47200
+Mar 16 19:46 : client: [24] closed
+Mar 16 19:46 : client: [25] opened from 127.0.0.1:47204
+Mar 16 19:46 : client: [25] closed
+Mar 16 19:46 : client: [26] opened from 127.0.0.1:47208
+Mar 16 20:13 : client: [27] opened from 127.0.0.1:47568
+Mar 16 20:13 : client: [27] closed
+Mar 16 20:13 : client: [28] opened from 127.0.0.1:47572
+Mar 16 20:13 : client: [28] closed
+Mar 16 20:21 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 16 20:21 : player: played "ПОСЛУШАЙТЕ В НАУШНИКАХ, НЕ ПОЖАЛЕЕТЕ 🎧 СЛУШАТЬ 8D MUSIC-z_mbfy49VJk.webm"
+Mar 16 20:34 : client: [29] opened from 127.0.0.1:47820
+Mar 16 20:34 : client: [29] closed
+Mar 16 21:16 : client: [30] opened from 127.0.0.1:48190
+Mar 16 21:16 : client: [30] closed
+Mar 16 21:16 : client: [31] opened from 127.0.0.1:48194
+Mar 16 21:16 : client: [31] closed
+Mar 16 21:16 : client: [32] opened from 127.0.0.1:48200
+Mar 16 21:23 : client: [33] opened from 127.0.0.1:48272
+Mar 16 21:23 : client: [33] closed
+Mar 16 21:26 : client: [34] opened from 127.0.0.1:48300
+Mar 16 21:26 : client: [35] opened from 127.0.0.1:48304
+Mar 16 21:26 : client: [35] closed
+Mar 16 21:26 : client: [36] opened from 127.0.0.1:48308
+Mar 16 21:26 : client: [36] closed
+Mar 16 21:26 : client: [37] opened from 127.0.0.1:48312
+Mar 16 21:26 : client: [37] closed
+Mar 16 21:26 : client: [38] opened from 127.0.0.1:48316
+Mar 16 21:26 : client: [38] closed
+Mar 16 21:26 : client: [39] opened from 127.0.0.1:48320
+Mar 16 21:26 : client: [39] closed
+Mar 16 21:26 : client: [40] opened from 127.0.0.1:48324
+Mar 16 21:26 : player: played "Night Drive - A Chillwave Mix-emNgfuw8vlA.webm"
+Mar 16 21:26 : client: [40] closed
+Mar 16 21:26 : client: [41] opened from 127.0.0.1:48328
+Mar 16 21:26 : client: [41] closed
+Mar 16 21:26 : client: [42] opened from 127.0.0.1:48332
+Mar 16 21:26 : client: [42] closed
+Mar 16 21:26 : client: [43] opened from 127.0.0.1:48336
+Mar 16 21:26 : client: [43] closed
+Mar 16 21:26 : client: [44] opened from 127.0.0.1:48340
+Mar 16 21:26 : client: [44] closed
+Mar 16 21:26 : client: [45] opened from 127.0.0.1:48344
+Mar 16 21:26 : client: [45] closed
+Mar 16 21:26 : client: [46] opened from 127.0.0.1:48348
+Mar 16 21:26 : client: [46] closed
+Mar 16 21:26 : client: [47] opened from 127.0.0.1:48352
+Mar 16 21:26 : client: [47] closed
+Mar 16 21:26 : client: [48] opened from 127.0.0.1:48356
+Mar 16 21:26 : client: [48] closed
+Mar 16 21:26 : client: [49] opened from 127.0.0.1:48360
+Mar 16 21:26 : client: [49] closed
+Mar 16 21:26 : client: [50] opened from 127.0.0.1:48364
+Mar 16 21:26 : client: [50] closed
+Mar 16 21:26 : client: [51] opened from 127.0.0.1:48368
+Mar 16 21:26 : client: [51] closed
+Mar 16 21:26 : client: [52] opened from 127.0.0.1:48372
+Mar 16 21:26 : client: [52] closed
+Mar 16 21:26 : client: [53] opened from 127.0.0.1:48376
+Mar 16 21:26 : client: [53] closed
+Mar 16 21:26 : client: [54] opened from 127.0.0.1:48380
+Mar 16 21:26 : client: [54] closed
+Mar 16 21:26 : client: [55] opened from 127.0.0.1:48384
+Mar 16 21:26 : client: [55] closed
+Mar 16 21:26 : client: [56] opened from 127.0.0.1:48388
+Mar 16 21:26 : client: [56] closed
+Mar 16 21:26 : client: [57] opened from 127.0.0.1:48392
+Mar 16 21:26 : client: [57] closed
+Mar 16 21:26 : client: [58] opened from 127.0.0.1:48396
+Mar 16 21:26 : client: [58] closed
+Mar 16 21:26 : client: [59] opened from 127.0.0.1:48400
+Mar 16 21:26 : client: [59] closed
+Mar 16 21:26 : client: [60] opened from 127.0.0.1:48404
+Mar 16 21:26 : client: [60] closed
+Mar 16 21:26 : client: [61] opened from 127.0.0.1:48408
+Mar 16 21:26 : client: [61] closed
+Mar 16 21:26 : client: [62] opened from 127.0.0.1:48412
+Mar 16 21:26 : client: [62] closed
+Mar 16 21:26 : client: [63] opened from 127.0.0.1:48416
+Mar 16 21:26 : client: [63] closed
+Mar 16 21:26 : client: [64] opened from 127.0.0.1:48420
+Mar 16 21:26 : client: [64] closed
+Mar 16 21:26 : client: [65] opened from 127.0.0.1:48424
+Mar 16 21:26 : client: [65] closed
+Mar 16 21:26 : client: [66] opened from 127.0.0.1:48428
+Mar 16 21:26 : client: [66] closed
+Mar 16 21:26 : client: [67] opened from 127.0.0.1:48432
+Mar 16 21:26 : client: [67] closed
+Mar 16 21:26 : client: [68] opened from 127.0.0.1:48436
+Mar 16 21:26 : client: [68] closed
+Mar 16 21:26 : client: [69] opened from 127.0.0.1:48440
+Mar 16 21:26 : client: [69] closed
+Mar 16 21:26 : client: [70] opened from 127.0.0.1:48444
+Mar 16 21:26 : client: [70] closed
+Mar 16 21:26 : client: [71] opened from 127.0.0.1:48448
+Mar 16 21:26 : client: [71] closed
+Mar 16 21:26 : client: [72] opened from 127.0.0.1:48452
+Mar 16 21:26 : client: [72] closed
+Mar 16 21:26 : client: [73] opened from 127.0.0.1:48456
+Mar 16 21:26 : client: [73] closed
+Mar 16 21:26 : client: [74] opened from 127.0.0.1:48460
+Mar 16 21:26 : client: [74] closed
+Mar 16 21:26 : client: [75] opened from 127.0.0.1:48464
+Mar 16 21:26 : client: [75] closed
+Mar 16 21:26 : client: [76] opened from 127.0.0.1:48468
+Mar 16 21:26 : client: [76] closed
+Mar 16 21:26 : client: [77] opened from 127.0.0.1:48472
+Mar 16 21:26 : client: [77] closed
+Mar 16 21:26 : client: [78] opened from 127.0.0.1:48476
+Mar 16 21:26 : client: [78] closed
+Mar 16 21:26 : client: [79] opened from 127.0.0.1:48480
+Mar 16 21:26 : client: [79] closed
+Mar 16 21:26 : client: [80] opened from 127.0.0.1:48484
+Mar 16 21:26 : client: [80] closed
+Mar 16 21:26 : client: [81] opened from 127.0.0.1:48488
+Mar 16 21:26 : client: [81] closed
+Mar 16 21:26 : client: [82] opened from 127.0.0.1:48492
+Mar 16 21:26 : client: [82] closed
+Mar 16 21:26 : client: [83] opened from 127.0.0.1:48496
+Mar 16 21:26 : client: [83] closed
+Mar 16 21:26 : client: [84] opened from 127.0.0.1:48500
+Mar 16 21:26 : client: [84] closed
+Mar 16 21:26 : client: [85] opened from 127.0.0.1:48504
+Mar 16 21:26 : client: [85] closed
+Mar 16 21:26 : client: [86] opened from 127.0.0.1:48508
+Mar 16 21:26 : client: [86] closed
+Mar 16 21:26 : client: [87] opened from 127.0.0.1:48512
+Mar 16 21:26 : client: [87] closed
+Mar 16 21:26 : client: [88] opened from 127.0.0.1:48516
+Mar 16 21:26 : client: [88] closed
+Mar 16 21:26 : client: [89] opened from 127.0.0.1:48520
+Mar 16 21:26 : client: [89] closed
+Mar 16 21:26 : client: [90] opened from 127.0.0.1:48524
+Mar 16 21:26 : client: [90] closed
+Mar 16 21:26 : client: [91] opened from 127.0.0.1:48528
+Mar 16 21:26 : client: [91] closed
+Mar 16 21:26 : client: [92] opened from 127.0.0.1:48532
+Mar 16 21:26 : client: [92] closed
+Mar 16 21:26 : client: [93] opened from 127.0.0.1:48536
+Mar 16 21:26 : client: [93] closed
+Mar 16 21:26 : client: [94] opened from 127.0.0.1:48540
+Mar 16 21:26 : client: [94] closed
+Mar 16 21:26 : client: [95] opened from 127.0.0.1:48544
+Mar 16 21:26 : client: [95] closed
+Mar 16 21:27 : client: [34] closed
+Mar 16 21:29 : client: [96] opened from 127.0.0.1:48616
+Mar 16 21:29 : client: [96] closed
+Mar 16 21:38 : client: [97] opened from 127.0.0.1:48652
+Mar 16 21:38 : client: [97] closed
+Mar 16 21:38 : client: [98] opened from 127.0.0.1:48656
+Mar 16 21:38 : client: [98] closed
+Mar 16 21:43 : client: [99] opened from 127.0.0.1:48768
+Mar 16 21:43 : client: [99] closed
+Mar 16 21:44 : client: [100] opened from 127.0.0.1:48800
+Mar 16 21:44 : client: [100] closed
+Mar 16 21:47 : client: [32] closed
+Mar 16 22:04 : client: [101] opened from 127.0.0.1:48900
+Mar 16 22:04 : client: [101] closed
+Mar 16 22:04 : client: [102] opened from 127.0.0.1:48904
+Mar 16 22:04 : client: [102] closed
+Mar 16 22:04 : client: [103] opened from 127.0.0.1:48908
+Mar 16 22:04 : client: [103] closed
+Mar 16 22:05 : client: [104] opened from 127.0.0.1:48912
+Mar 16 22:05 : client: [104] closed
+Mar 16 22:08 : client: [105] opened from 127.0.0.1:48922
+Mar 16 22:08 : client: [105] closed
+Mar 16 22:08 : client: [106] opened from 127.0.0.1:48926
+Mar 16 22:08 : client: [106] closed
+Mar 16 22:08 : client: [107] opened from 127.0.0.1:48930
+Mar 16 22:08 : client: [107] closed
+Mar 16 22:08 : client: [108] opened from 127.0.0.1:48934
+Mar 16 22:08 : client: [108] closed
+Mar 16 22:08 : client: [109] opened from 127.0.0.1:48938
+Mar 16 22:08 : client: [109] closed
+Mar 16 22:09 : client: [110] opened from 127.0.0.1:48942
+Mar 16 22:09 : client: [110] closed
+Mar 16 22:09 : client: [111] opened from 127.0.0.1:48946
+Mar 16 22:09 : client: [111] closed
+Mar 16 22:09 : client: [112] opened from 127.0.0.1:48950
+Mar 16 22:09 : client: [112] closed
+Mar 16 22:09 : client: [113] opened from 127.0.0.1:48954
+Mar 16 22:09 : client: [113] closed
+Mar 16 22:09 : client: [114] opened from 127.0.0.1:48958
+Mar 16 22:09 : client: [114] closed
+Mar 16 22:10 : client: [115] opened from 127.0.0.1:48964
+Mar 16 22:10 : client: [115] closed
+Mar 16 22:11 : client: [116] opened from 127.0.0.1:48972
+Mar 16 22:11 : client: [116] closed
+Mar 16 22:59 : client: [117] opened from 127.0.0.1:49500
+Mar 16 22:59 : client: [117] closed
+Mar 16 23:21 : client: [118] opened from 127.0.0.1:49682
+Mar 16 23:21 : client: [118] closed
+Mar 16 23:29 : client: [119] opened from 127.0.0.1:49732
+Mar 16 23:29 : client: [119] closed
+Mar 16 23:29 : client: [120] opened from 127.0.0.1:49736
+Mar 16 23:29 : client: [120] closed
+Mar 16 23:29 : client: [121] opened from 127.0.0.1:49740
+Mar 16 23:29 : client: [121] closed
+Mar 16 23:29 : client: [122] opened from 127.0.0.1:49744
+Mar 16 23:29 : client: [122] closed
+Mar 16 23:51 : client: [123] opened from 127.0.0.1:49844
+Mar 16 23:51 : player: played "8D AUDIO _ CLASSICAL MUSIC _ Bach, Mozart, Chopin, Beethoven, Tchaikovsky (USE HEADPHONES)-qap88uEa0KI.webm"
+Mar 16 23:51 : client: [123] closed
+Mar 17 00:05 : client: [26] closed
+Mar 17 06:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 06:48 : client: [0] opened from 127.0.0.1:51210
+Mar 17 06:48 : update: removing ПОСЛУШАЙТЕ В НАУШНИКАХ, НЕ ПОЖАЛЕЕТЕ 🎧 СЛУШАТЬ 8D MUSIC-z_mbfy49VJk.webm
+Mar 17 06:48 : update: removing Night Drive - A Chillwave Mix-emNgfuw8vlA.webm
+Mar 17 06:48 : update: removing 8D AUDIO _ CLASSICAL MUSIC _ Bach, Mozart, Chopin, Beethoven, Tchaikovsky (USE HEADPHONES)-qap88uEa0KI.webm
+Mar 17 06:48 : update: added work/8D AUDIO _ CLASSICAL MUSIC _ Bach, Mozart, Chopin, Beethoven, Tchaikovsky (USE HEADPHONES)-qap88uEa0KI.webm
+Mar 17 06:48 : update: added work/ПОСЛУШАЙТЕ В НАУШНИКАХ, НЕ ПОЖАЛЕЕТЕ 🎧 СЛУШАТЬ 8D MUSIC-z_mbfy49VJk.webm
+Mar 17 06:48 : update: added work/Night Drive - A Chillwave Mix-emNgfuw8vlA.webm
+Mar 17 06:48 : client: [0] closed
+Mar 18 16:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 16:07 : config: option 'device' on line 13 was not recognized
+Mar 18 16:08 : client: [0] opened from 127.0.0.1:57696
+Mar 18 16:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 16:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 16:08 : client: [0] closed
+Mar 18 16:08 : client: [1] opened from 127.0.0.1:57706
+Mar 18 16:08 : player: played "work/8D AUDIO _ CLASSICAL MUSIC _ Bach, Mozart, Chopin, Beethoven, Tchaikovsky (USE HEADPHONES)-qap88uEa0KI.webm"
+Mar 18 16:08 : client: [1] closed
+Mar 18 16:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 16:13 : config: option 'device' on line 13 was not recognized
+Mar 18 16:14 : client: [0] opened from 127.0.0.1:59082
+Mar 18 16:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 16:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 16:23 : client: [0] closed
+Mar 18 16:28 : client: [1] opened from 127.0.0.1:59124
+Mar 18 16:49 : client: [1] closed
+Mar 18 16:55 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 18 16:55 : player: played "work/ПОСЛУШАЙТЕ В НАУШНИКАХ, НЕ ПОЖАЛЕЕТЕ 🎧 СЛУШАТЬ 8D MUSIC-z_mbfy49VJk.webm"
+Mar 18 17:05 : client: [2] opened from 127.0.0.1:59826
+Mar 18 17:05 : player: played "work/8D AUDIO _ CLASSICAL MUSIC _ Bach, Mozart, Chopin, Beethoven, Tchaikovsky (USE HEADPHONES)-qap88uEa0KI.webm"
+Mar 18 17:05 : client: [2] closed
+Mar 18 20:39 : client: [3] opened from 127.0.0.1:60550
+Mar 18 20:39 : update: removing work/ПОСЛУШАЙТЕ В НАУШНИКАХ, НЕ ПОЖАЛЕЕТЕ 🎧 СЛУШАТЬ 8D MUSIC-z_mbfy49VJk.webm
+Mar 18 20:39 : update: removing work/Night Drive - A Chillwave Mix-emNgfuw8vlA.webm
+Mar 18 20:39 : update: removing work/8D AUDIO _ CLASSICAL MUSIC _ Bach, Mozart, Chopin, Beethoven, Tchaikovsky (USE HEADPHONES)-qap88uEa0KI.webm
+Mar 18 20:39 : update: added /8D AUDIO _ CLASSICAL MUSIC _ Bach, Mozart, Chopin, Beethoven, Tchaikovsky (USE HEADPHONES)-qap88uEa0KI.webm
+Mar 18 20:39 : update: added /2 hours of Doomer Music-TNVqOmJc-YY.webm
+Mar 18 20:39 : update: added /ПОСЛУШАЙТЕ В НАУШНИКАХ, НЕ ПОЖАЛЕЕТЕ 🎧 СЛУШАТЬ 8D MUSIC-z_mbfy49VJk.webm
+Mar 18 20:39 : update: added /Night Drive - A Chillwave Mix-emNgfuw8vlA.webm
+Mar 18 20:39 : client: [3] closed
+Mar 23 20:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:02 : config: option 'device' on line 13 was not recognized
+Mar 23 20:02 : client: [0] opened from 127.0.0.1:44372
+Mar 23 20:02 : client: [0] closed
+Mar 23 20:02 : client: [1] opened from 127.0.0.1:44378
+Mar 23 20:02 : exception: Not playing
+Mar 23 20:02 : client: [1] closed
+Mar 23 20:02 : client: [2] opened from 127.0.0.1:44384
+Mar 23 20:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:02 : exception: Failed to enable output "pulse audio" (pulse)
+Mar 23 20:02 : exception: nested: pa_context_connect() has failed: Connection refused
+Mar 23 20:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:02 : client: [3] opened from 127.0.0.1:44394
+Mar 23 20:02 : client: [3] closed
+Mar 23 20:02 : client: [4] opened from 127.0.0.1:44398
+Mar 23 20:02 : client: [4] closed
+Mar 23 20:02 : client: [5] opened from 127.0.0.1:44402
+Mar 23 20:02 : client: [5] closed
+Mar 23 20:02 : client: [6] opened from 127.0.0.1:44406
+Mar 23 20:02 : client: [6] closed
+Mar 23 20:02 : client: [7] opened from 127.0.0.1:44410
+Mar 23 20:02 : client: [7] closed
+Mar 23 20:02 : client: [8] opened from 127.0.0.1:44414
+Mar 23 20:02 : client: [8] closed
+Mar 23 20:02 : client: [9] opened from 127.0.0.1:44418
+Mar 23 20:02 : client: [9] closed
+Mar 23 20:02 : client: [10] opened from 127.0.0.1:44422
+Mar 23 20:02 : client: [10] closed
+Mar 23 20:02 : client: [11] opened from 127.0.0.1:44426
+Mar 23 20:02 : client: [11] closed
+Mar 23 20:02 : client: [12] opened from 127.0.0.1:44430
+Mar 23 20:02 : client: [12] closed
+Mar 23 20:02 : client: [13] opened from 127.0.0.1:44434
+Mar 23 20:02 : client: [13] closed
+Mar 23 20:02 : client: [14] opened from 127.0.0.1:44438
+Mar 23 20:02 : client: [14] closed
+Mar 23 20:02 : client: [15] opened from 127.0.0.1:44442
+Mar 23 20:02 : client: [15] closed
+Mar 23 20:02 : client: [16] opened from 127.0.0.1:44446
+Mar 23 20:02 : client: [16] closed
+Mar 23 20:02 : client: [17] opened from 127.0.0.1:44450
+Mar 23 20:02 : client: [17] closed
+Mar 23 20:02 : client: [18] opened from 127.0.0.1:44454
+Mar 23 20:02 : client: [18] closed
+Mar 23 20:02 : client: [19] opened from 127.0.0.1:44458
+Mar 23 20:02 : client: [19] closed
+Mar 23 20:02 : client: [20] opened from 127.0.0.1:44462
+Mar 23 20:02 : client: [20] closed
+Mar 23 20:02 : client: [21] opened from 127.0.0.1:44466
+Mar 23 20:02 : client: [21] closed
+Mar 23 20:02 : client: [22] opened from 127.0.0.1:44470
+Mar 23 20:02 : client: [22] closed
+Mar 23 20:02 : client: [23] opened from 127.0.0.1:44474
+Mar 23 20:02 : client: [23] closed
+Mar 23 20:02 : client: [24] opened from 127.0.0.1:44478
+Mar 23 20:02 : client: [24] closed
+Mar 23 20:02 : client: [25] opened from 127.0.0.1:44482
+Mar 23 20:02 : client: [25] closed
+Mar 23 20:02 : client: [26] opened from 127.0.0.1:44486
+Mar 23 20:02 : client: [26] closed
+Mar 23 20:02 : client: [27] opened from 127.0.0.1:44490
+Mar 23 20:02 : client: [27] closed
+Mar 23 20:02 : client: [28] opened from 127.0.0.1:44494
+Mar 23 20:02 : client: [28] closed
+Mar 23 20:02 : client: [29] opened from 127.0.0.1:44498
+Mar 23 20:02 : client: [29] closed
+Mar 23 20:02 : client: [30] opened from 127.0.0.1:44502
+Mar 23 20:02 : client: [30] closed
+Mar 23 20:02 : client: [31] opened from 127.0.0.1:44506
+Mar 23 20:02 : client: [31] closed
+Mar 23 20:02 : client: [32] opened from 127.0.0.1:44510
+Mar 23 20:02 : client: [32] closed
+Mar 23 20:02 : client: [33] opened from 127.0.0.1:44514
+Mar 23 20:02 : client: [33] closed
+Mar 23 20:02 : client: [34] opened from 127.0.0.1:44518
+Mar 23 20:02 : client: [34] closed
+Mar 23 20:02 : client: [35] opened from 127.0.0.1:44522
+Mar 23 20:02 : client: [35] closed
+Mar 23 20:02 : client: [36] opened from 127.0.0.1:44526
+Mar 23 20:02 : client: [36] closed
+Mar 23 20:02 : client: [37] opened from 127.0.0.1:44530
+Mar 23 20:02 : client: [37] closed
+Mar 23 20:02 : client: [38] opened from 127.0.0.1:44534
+Mar 23 20:02 : client: [38] closed
+Mar 23 20:02 : client: [39] opened from 127.0.0.1:44538
+Mar 23 20:02 : client: [39] closed
+Mar 23 20:02 : client: [40] opened from 127.0.0.1:44542
+Mar 23 20:02 : client: [40] closed
+Mar 23 20:02 : client: [41] opened from 127.0.0.1:44546
+Mar 23 20:02 : client: [41] closed
+Mar 23 20:02 : client: [42] opened from 127.0.0.1:44550
+Mar 23 20:02 : client: [42] closed
+Mar 23 20:02 : client: [43] opened from 127.0.0.1:44554
+Mar 23 20:02 : client: [43] closed
+Mar 23 20:02 : client: [44] opened from 127.0.0.1:44558
+Mar 23 20:02 : client: [44] closed
+Mar 23 20:02 : client: [45] opened from 127.0.0.1:44562
+Mar 23 20:02 : client: [45] closed
+Mar 23 20:02 : client: [46] opened from 127.0.0.1:44566
+Mar 23 20:02 : client: [46] closed
+Mar 23 20:02 : client: [47] opened from 127.0.0.1:44570
+Mar 23 20:02 : client: [47] closed
+Mar 23 20:02 : client: [48] opened from 127.0.0.1:44574
+Mar 23 20:02 : client: [48] closed
+Mar 23 20:02 : client: [49] opened from 127.0.0.1:44578
+Mar 23 20:02 : client: [49] closed
+Mar 23 20:02 : client: [50] opened from 127.0.0.1:44582
+Mar 23 20:02 : client: [50] closed
+Mar 23 20:02 : client: [51] opened from 127.0.0.1:44586
+Mar 23 20:02 : client: [51] closed
+Mar 23 20:02 : client: [52] opened from 127.0.0.1:44590
+Mar 23 20:02 : client: [52] closed
+Mar 23 20:02 : client: [53] opened from 127.0.0.1:44594
+Mar 23 20:02 : client: [53] closed
+Mar 23 20:02 : client: [54] opened from 127.0.0.1:44598
+Mar 23 20:02 : client: [54] closed
+Mar 23 20:02 : client: [55] opened from 127.0.0.1:44602
+Mar 23 20:02 : client: [55] closed
+Mar 23 20:02 : client: [56] opened from 127.0.0.1:44606
+Mar 23 20:02 : client: [56] closed
+Mar 23 20:02 : client: [57] opened from 127.0.0.1:44610
+Mar 23 20:02 : client: [57] closed
+Mar 23 20:02 : client: [58] opened from 127.0.0.1:44614
+Mar 23 20:02 : client: [58] closed
+Mar 23 20:02 : client: [59] opened from 127.0.0.1:44618
+Mar 23 20:02 : client: [59] closed
+Mar 23 20:02 : client: [60] opened from 127.0.0.1:44622
+Mar 23 20:02 : client: [60] closed
+Mar 23 20:02 : client: [61] opened from 127.0.0.1:44626
+Mar 23 20:02 : client: [61] closed
+Mar 23 20:02 : client: [62] opened from 127.0.0.1:44630
+Mar 23 20:02 : client: [62] closed
+Mar 23 20:02 : client: [63] opened from 127.0.0.1:44634
+Mar 23 20:02 : client: [63] closed
+Mar 23 20:02 : client: [64] opened from 127.0.0.1:44638
+Mar 23 20:02 : client: [64] closed
+Mar 23 20:02 : client: [65] opened from 127.0.0.1:44642
+Mar 23 20:02 : client: [65] closed
+Mar 23 20:02 : client: [66] opened from 127.0.0.1:44646
+Mar 23 20:02 : client: [66] closed
+Mar 23 20:02 : client: [67] opened from 127.0.0.1:44650
+Mar 23 20:02 : client: [67] closed
+Mar 23 20:02 : client: [68] opened from 127.0.0.1:44654
+Mar 23 20:02 : client: [68] closed
+Mar 23 20:02 : client: [69] opened from 127.0.0.1:44658
+Mar 23 20:02 : client: [69] closed
+Mar 23 20:02 : client: [70] opened from 127.0.0.1:44662
+Mar 23 20:02 : client: [70] closed
+Mar 23 20:02 : client: [71] opened from 127.0.0.1:44666
+Mar 23 20:02 : client: [71] closed
+Mar 23 20:02 : client: [72] opened from 127.0.0.1:44670
+Mar 23 20:02 : client: [72] closed
+Mar 23 20:02 : client: [73] opened from 127.0.0.1:44674
+Mar 23 20:02 : client: [73] closed
+Mar 23 20:02 : client: [74] opened from 127.0.0.1:44678
+Mar 23 20:02 : client: [74] closed
+Mar 23 20:02 : client: [75] opened from 127.0.0.1:44682
+Mar 23 20:02 : client: [75] closed
+Mar 23 20:02 : client: [76] opened from 127.0.0.1:44686
+Mar 23 20:02 : client: [76] closed
+Mar 23 20:02 : exception: Failed to enable output "pulse audio" (pulse)
+Mar 23 20:02 : exception: nested: pa_context_connect() has failed: Connection refused
+Mar 23 20:02 : client: [2] closed
+Mar 23 20:03 : client: [77] opened from 127.0.0.1:44694
+Mar 23 20:03 : client: [77] closed
+Mar 23 20:03 : player: played "2 hours of Doomer Music-TNVqOmJc-YY.webm"
+Mar 23 20:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:03 : config: option 'device' on line 13 was not recognized
+Mar 23 20:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:03 : player: played "2 hours of Doomer Music-TNVqOmJc-YY.webm"
+Mar 23 20:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:53 : config: option 'device' on line 13 was not recognized
+Mar 23 20:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:53 : client: [0] opened from 127.0.0.1:46494
+Mar 23 20:56 : client: [0] closed
+Mar 23 20:56 : client: [1] opened from 127.0.0.1:46520
+Mar 23 20:56 : update: removing ПОСЛУШАЙТЕ В НАУШНИКАХ, НЕ ПОЖАЛЕЕТЕ 🎧 СЛУШАТЬ 8D MUSIC-z_mbfy49VJk.webm
+Mar 23 20:56 : update: added /ПОСЛУШАЙТЕ В НАУШНИКАХ, НЕ ПОЖАЛЕЕТЕ СЛУШАТЬ 8D MUSIC-z_mbfy49VJk.webm
+Mar 23 20:56 : client: [1] closed
+Mar 23 21:03 : client: [2] opened from 127.0.0.1:46632
+Mar 23 21:03 : client: [2] closed
+Mar 23 21:03 : client: [3] opened from 127.0.0.1:46636
+Mar 23 21:03 : client: [3] closed
+Mar 23 21:03 : client: [4] opened from 127.0.0.1:46640
+Mar 23 21:03 : client: [4] closed
+Mar 23 21:03 : client: [5] opened from 127.0.0.1:46644
+Mar 23 21:03 : client: [5] closed
+Mar 23 21:03 : client: [6] opened from 127.0.0.1:46648
+Mar 23 21:03 : client: [6] closed
+Mar 23 21:03 : client: [7] opened from 127.0.0.1:46652
+Mar 23 21:03 : client: [8] opened from 127.0.0.1:46656
+Mar 23 21:03 : client: [7] closed
+Mar 23 21:03 : client: [8] closed
+Mar 23 21:13 : client: [9] opened from 127.0.0.1:46776
+Mar 23 21:13 : client: [9] closed
+Mar 24 00:03 : client: [10] opened from 127.0.0.1:50262
+Mar 24 00:03 : client: [10] closed
+Mar 24 00:04 : player: played "2 hours of Doomer Music-TNVqOmJc-YY.webm"
