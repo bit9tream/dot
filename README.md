@@ -1,4 +1,4 @@
 # bit9tream's dotfiles
 
-#Instalation:
-	**./install.sh**
+# Instalation:
+_./install.sh_
