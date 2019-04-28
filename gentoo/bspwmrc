@@ -1,0 +1,36 @@
+#! /bin/sh
+
+sxhkd &
+xrdb -merge ~/.Xdefaults &
+xsetroot -cursor_name left_ptr &
+xmodmap ~/.Xmodmap &
+compton -b &
+dunst &
+hsetroot -add "#bd2e40" -add "#962b2b" -gradient 180 &
+
+if [[ $(xrandr | grep DVI-I-1 | grep disconnected) ]]
+then
+	bspc monitor VGA-1   -d I  II  III  IV V VI VII VIII IX X
+else
+	bspc monitor VGA-1   -d I  II  III  IV V 
+	bspc monitor DVI-I-1 -d VI VII VIII IX X  
+fi
+
+
+bspc config border_width         5
+bspc config window_gap           0
+
+bspc config normal_border_color  "#13151b"
+bspc config focused_border_color "#7f1522"
+bspc config active_border_color  "#6c0d19"
+
+
+bspc config split_ratio          0.52
+bspc config borderless_monocle   false
+bspc config gapless_monocle      false
+
+bspc rule -a Gimp desktop='^8' state=floating follow=on
+bspc rule -a Chromium desktop='^2'
+bspc rule -a mplayer2 state=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off

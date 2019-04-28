@@ -1,0 +1,76 @@
+*scrollBar:	   	false
+URxvt*font:	   	xft:Fura Code Nerd Font:style=regular:size=15,
+				xft:Noto Color Emoji:style=regular:size=15
+
+URxvt.depth:	   32
+
+URxvt*termName:	   rxvt-256color
+URxvt*cursorUnderline:	true
+
+!URxvt.fading:	15
+
+URxvt.internalBorder:  15
+
+URxvt.perl-lib:			 /usr/lib/urxvt/perl/
+URxvt.perl-ext-common: 	default,clipboard,keyboard-select
+URxvt.keysym.M-Escape: 	perl:keyboard-select:activate
+URxvt.keyboard-select.clipboard:	true
+URxvt.keysym.M-s: 		perl:keyboard-select:search
+URxvt.keysym.M-u:      	perl:url-select:select_next
+
+URxvt.keysym.M-c:   perl:clipboard:copy
+URxvt.keysym.M-v:   perl:clipboard:paste
+URxvt.keysym.M-C-v: perl:clipboard:paste_escaped
+URxvt.clipboard.autocopy: true
+
+!(235, 248)
+URxvt.background:  [99]#0c0d12
+*.background:  #0c0d12
+*.foreground:  #E8E8E8
+
+!(134)
+URxvt.cursorColor: #ffffff
+URxvt*cursorBlink: true
+
+!(252)
+URxvt.colorBD:     #D0D0D0
+URxvt.colorIT:     #D0D0D0
+URxvt.colorUL:     #D0D0D0
+
+!BLK (236, 243)
+URxvt.color0:	   #151515
+URxvt.color8:      #767676
+
+!WHT (252, 231)
+URxvt.color7:      #D0D0D0
+URxvt.color15:     #FFFFFF
+
+!RED
+URxvt.color1:      #E16B6A
+URxvt.color9:      #FFA3A3
+
+!GRN
+URxvt.color2:      #48A16F
+URxvt.color10:     #80D9A5
+
+!YEL
+URxvt.color3:      #C0824F
+URxvt.color11:     #F7B985
+
+!BLU
+URxvt.color4:      #7B91C6
+URxvt.color12:     #B0C7FC
+
+!MAG
+URxvt.color5:      #DF679A
+URxvt.color13:     #FF9FD4
+
+!CYN
+URxvt.color6:      #4E9E9E
+URxvt.color14:     #85D5D4
+
+rofi.font:	Fira Code 13
+
+sxiv*background:	#0c0d12
+
+! vim: set ft=xdefaults:
