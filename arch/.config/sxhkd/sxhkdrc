@@ -7,8 +7,8 @@ super + Return
 		  urxvtc
 
 # terminal daemon
-#super + shift + Return
-#	urxvtd -q -f -o
+super + shift + Return
+	urxvtd -q -f -o
 
 # rofi-mount
 super + {control,shift} + m
